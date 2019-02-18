@@ -4,30 +4,30 @@
 
 ## Tasks
 
-- [ ] 1. Зарегистрироваться на почтовом сервисе **Gmail**
-- [ ] 2. Зарегистрироваться на сервисе обмена сообщений **Slack**
-- [ ] 3. Зарегистрироваться на сервисе совместной разработки **GitHub**
-- [ ] 4. Отправить зарегистрированный адрес почтового ящика личным сообщением в **Slack**
-- [ ] 5. Отправить зарегистрированный логин личным сообщением в **Slack**
-- [ ] 6. Ознакомиться со ссылками учебного материала
-- [ ] 7. Выполнить инструкцию учебного материала
-- [ ] 8. Сгенирировать **Personal Token** с правами **gist** и сохранить его в файл
-- [ ] 9. Составить отчет и отправить ссылку личным сообщением в **Slack**
+- [x] 1. Зарегистрироваться на почтовом сервисе **Gmail**
+- [x] 2. Зарегистрироваться на сервисе обмена сообщений **Slack**
+- [x] 3. Зарегистрироваться на сервисе совместной разработки **GitHub**
+- [x] 4. Отправить зарегистрированный адрес почтового ящика личным сообщением в **Slack**
+- [x] 5. Отправить зарегистрированный логин личным сообщением в **Slack**
+- [x] 6. Ознакомиться со ссылками учебного материала
+- [x] 7. Выполнить инструкцию учебного материала
+- [x] 8. Сгенирировать **Personal Token** с правами **gist** и сохранить его в файл
+- [x] 9. Составить отчет и отправить ссылку личным сообщением в **Slack**
 
 ## Tutorial
 
 ```sh
 # check development environment
-$ cmake --version
-$ curl --version
-$ git --version
-$ g++ --version
-$ hub --version
-$ make --version
-$ subl --version
-$ tree --version
-$ wget --version
-$ openssl version
+$ cmake --version #check cmake version
+$ curl --version 7.41.0 #check curl version
+$ git --version 2.1.4 #check git version
+$ g++ --version #check g++ version
+$ hub --version #check hub version
+$ make --version GNU Make 4.1 #check make version
+$ subl --version #check subl version
+$ tree --version v1.7.0 #check tree version
+$ wget --version 1.16.3 #check wget version
+$ openssl version OpenSSL 1.0.2a #check openssl version
 ```
 
 ## Links
