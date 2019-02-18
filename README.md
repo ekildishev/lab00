@@ -18,13 +18,13 @@
 
 ```sh
 # check development environment
-$ cmake --version #check cmake version
+$ cmake --version 3.7.2#check cmake version
 $ curl --version 7.41.0 #check curl version
-$ git --version 2.1.4 #check git version
-$ g++ --version #check g++ version
-$ hub --version #check hub version
+$ git --version 2.11.0 #check git version
+$ g++ --version 6.3.0 20170516 #check g++ version
+$ hub --version 2.9.0 #check hub version
 $ make --version GNU Make 4.1 #check make version
-$ subl --version #check subl version
+$ subl --version Sublime Text Build 3176 #check subl version
 $ tree --version v1.7.0 #check tree version
 $ wget --version 1.16.3 #check wget version
 $ openssl version OpenSSL 1.0.2a #check openssl version
